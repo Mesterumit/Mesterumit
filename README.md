@@ -10,7 +10,7 @@ I have been learning to code for 2 years , and working as full-stack developer f
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [mesterumit@gmail.com](mailto:mesterumit@gmail.com)
-* 🚀  I'm currently working on [NBA\_App](http://http://localhost:3000)
+* 🚀  I'm currently working on [NBA\_App](https://mesterumit.github.io/NBA_APP/)
 * 🧠  I'm learning API with Node.JS, Mongoose ,Express.
 * 🤝  I'm open to collaborating on Projects
 
