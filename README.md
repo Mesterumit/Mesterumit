@@ -28,6 +28,27 @@ I have been learning to code for 2 years , and working as full-stack developer f
 
 ### Badges
 
+| Project Demo                                                                                                                   | Libraries and Technologies I use | Project Preview                                                                                                             |
+| :----------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+![Project Demo](https://raw.githubusercontent.com/Mesterumit/NBA_APP/main/public/https://github.com/Mesterumit/NBA_APP/blob/main/public/ezgif.com-crop.gif?raw=true)
+
+
+
+<br>
+
+<h2 align="center">💡Most Used Language</h2>
+<div  align="center">
+<br/>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=axel-ac&theme=blue-green"
+     alt=""
+     /> </br></br></br>
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-ac&theme=blue-green"
+     alt=""
+     /> <br/>
+</div>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Mesterumit"><img src="https://github-readme-stats.vercel.app/api?username=Mesterumit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mesterumit's GitHub stats" /></a>
