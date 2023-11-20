@@ -30,7 +30,7 @@ I have been learning to code for 2 years , and working as full-stack developer f
 
 | Project Demo                                                                                                                   | Libraries and Technologies I use | Project Preview                                                                                                             |
 | :----------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-![Project Demo](https://raw.githubusercontent.com/Mesterumit/NBA_APP/main/public/https://github.com/Mesterumit/NBA_APP/blob/main/public/ezgif.com-crop.gif?raw=true)
+![Project Demo](https://raw.githubusercontent.com/Mesterumit/NBA_APP/main/public/ezgif.com-crop.gif)
 
 
 
