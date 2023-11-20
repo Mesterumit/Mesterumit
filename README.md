@@ -41,8 +41,7 @@ I have been learning to code for 2 years , and working as full-stack developer f
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=axel-ac&theme=blue-green"
-     alt=""
+     
      /> </br></br></br>
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-ac&theme=blue-green"
