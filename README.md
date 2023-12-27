@@ -31,7 +31,7 @@ I have been learning to code for 2 years , and working as full-stack developer f
 | Project Demo                         | Libraries and Technologies I use | Project Preview                      |
 | ------------------------------------ | -------------------------------- | ------------------------------------ |
 | [NBA-APP](https://mesterumit.github.io/NBA_APP/) <h3>[Repo](https://github.com/Mesterumit/NBA_APP.git)</h3> | React, BootStrap | ![NBA_APP](https://raw.githubusercontent.com/Mesterumit/NBA_APP/main/public/ezgif.com-crop.gif) |
-| [Tour-Places](https://mesterumit.github.io/NBA_APP/) <h3>[Repo](https://github.com/Mesterumit/NBA_APP.git)</h3> | React, BootStrap | ![NBA_APP](https://raw.githubusercontent.com/Mesterumit/NBA_APP/main/public/ezgif.com-crop.gif) |
+| [Tour-Places](https://mesterumit.github.io/NBA_APP/) <h3>[Repo](https://github.com/Mesterumit/NBA_APP.git)</h3> | React, BootStrap | (https://github.com/Mesterumit/Tour_Places/blob/main/public/ezgif.com-video-to-gif-converter.gif)) |
 
 
 
