@@ -37,7 +37,7 @@ I have been learning to code for 2 years , and working as full-stack developer f
 
 <br>
 
-<h2 align="center">💡Most Used Language</h2>
+
 
 <b>My GitHub Stats</b>
 
@@ -47,4 +47,5 @@ I have been learning to code for 2 years , and working as full-stack developer f
 
 <a href="http://www.github.com/Mesterumit"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mesterumit&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<h2 align="center">💡Most Used Language</h2>
 <a href="https://github.com/Mesterumit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesterumit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
