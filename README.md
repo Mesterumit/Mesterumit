@@ -6,12 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I have been learning to code for 2 years , and working as full-stack developer for almost year. First, I have started with HTML and CSS for front-end. After that, I have learned JS, REACT,REDUX,BOOTSTRAP, REACT-BOOTSTRAP,TAILWIND for front-end. For Back-End, I have focused on Node.JS, MongoDB-Atlas,Compass,Shell, mongoose, express in order to built API.
+I have been wroking  as full-stack developer for  year. First, I have started with HTML and CSS , JS, REACT,REDUX,BOOTSTRAP, REACT-BOOTSTRAP,TAILWIND for front-end. For Back-End, I have focused on Node.JS, MongoDB-Atlas,Compass,Shell, mongoose, express in order to built API.
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [mesterumit@gmail.com](mailto:mesterumit@gmail.com)
-* 🚀  I'm currently working on [NBA\_App](https://mesterumit.github.io/NBA_APP/)
-* 🧠  I'm learning API with Node.JS, Mongoose ,Express.
+* 🚀  I'm currently working on [BOSS\App]
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
