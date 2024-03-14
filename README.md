@@ -6,7 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I have been wroking  as full-stack developer for  year. First, I have started with HTML and CSS , JS, REACT,REDUX,BOOTSTRAP, REACT-BOOTSTRAP,TAILWIND for front-end. For Back-End, I have focused on Node.JS, MongoDB-Atlas,Compass,Shell, mongoose, express in order to built API.
+ A proficient Software Developer with 3+ years of IT and work experience and Master’s Degree in Information Technologies,
+ propelled by diligence and a results-oriented approach, supported by extensive professional experience and a robust
+ educational foundation in software development. A dedicated professional at Nioya Tech LLC,
+ afforded a significant opportunity to specialize in developing seamless and impactful web applications.
+An exceptional contributor with advanced skills in providing streamlined workflows and maintaining high-quality code standards,
+ while crafting scalable, user-centric solutions. Bringing a comprehensive skill set to development projects, and consistently achieving the highest standards of excellence in web development.
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [mesterumit@gmail.com](mailto:mesterumit@gmail.com)
